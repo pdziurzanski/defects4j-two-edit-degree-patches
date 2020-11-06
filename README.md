@@ -19,7 +19,7 @@ Faulty:\
 fireDatasetChanged();\
 Seed:\
 this.minimumRangeValue=minval;\
-**************************************************\
+**************************************************
 
 As the patches in the ARJA format cannot be applied directly to the source code, they have been converted to the diff format by the Perl script available at https://github.com/pdziurzanski/arja2diff-patch-converter. That repository also includes the converted versions of these patches.
 
